@@ -1,0 +1,9 @@
+
+
+reseller:
+  tempRootDir: C:/temp/aws/
+  aws:
+    accessKeyId: AKI**************6OA
+    secretAccessKey: hn**********************65/a3**********nQJ
+    bucketName: bucket1563527973790
+    billKey: riderzhang/rider/20190801-20190901/rider-00001.csv.zip
